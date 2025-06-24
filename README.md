@@ -81,5 +81,7 @@ I'm enrolled in Programming Hero's Full Stack Web Development course and continu
 
 🛠️ Tech Stack: React, Firebase Authentication, Tailwind CSS, DaisyUI, SweetAlert2
 
+---
 
+### 🌱 My Contributions:
 ![Your GitHub Contributions](https://ghchart.rshah.org/jayedalnahian)
