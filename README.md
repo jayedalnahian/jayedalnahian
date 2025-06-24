@@ -84,4 +84,4 @@ I'm enrolled in Programming Hero's Full Stack Web Development course and continu
 ---
 
 ### 🌱 My Contributions:
-![Your GitHub Contributions](https://ghchart.rshah.org/jayedalnahian)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jayedalnahian&show_icons=true&count_private=true&include_all_commits=true)
