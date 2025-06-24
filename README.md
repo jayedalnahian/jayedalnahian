@@ -32,6 +32,14 @@ I'm enrolled in Programming Hero's Full Stack Web Development course and continu
 
 ---
 
+## 🗣️ Languages I Speak
+
+- 🇧🇩 **Bengali** (Native)
+- 🇺🇸 **English** (Professional)
+- 🇮🇳 **Hindi** (Conversational)
+
+---
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayed-al-nahian-83b369317/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jnahian752@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayedalnahian)
