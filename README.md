@@ -56,21 +56,21 @@ I'm enrolled in Programming Hero's Full Stack Web Development course and continu
 
 ## 📌 Pinned Repositories
 
-### 1. [Task Hibe](https://github.com/jayedalnahian/b11-a9)
-📝 Brief description: TaskHive is a freelance task marketplace web application that connects individuals needing help with tasks and skilled freelancers looking for work. Users can post tasks, bid, and collaborate—all in one platform.
-
-🚀 Live Demo: (https://b11a10.web.app/)
-
-🛠️ Tech Stack: React, MongoDB, Express.js, Node.js, Firebase Authentication, Tailwind CSS
-
----
-
-### 2. [Marathon Management System](https://github.com/jayedalnahian/b11-a11)
+### 1. [Marathon Management System](https://github.com/jayedalnahian/b11-a11)
 📝 Brief description: A full-stack web application for organizing and participating in marathon events. Built with React, Firebase Auth, MongoDB, and Express — fully secured with JWT (Firebase token) authentication and protected API routes.
 
 🚀 Live Demo: (https://b11a11-client-side.web.app/)
 
-🛠️ Tech Stack: React, MongoDB, Express.js, Node.js, Firebase Authentication, Tailwind CSS
+🛠️ Tech Stack: React, MongoDB, Express.js, Node.js, Firebase Authentication, Tailwind CSS, DaisyUI, SweetAlert2
+
+---
+
+### 2. [Task Hibe](https://github.com/jayedalnahian/b11-a9)
+📝 Brief description: TaskHive is a freelance task marketplace web application that connects individuals needing help with tasks and skilled freelancers looking for work. Users can post tasks, bid, and collaborate—all in one platform.
+
+🚀 Live Demo: (https://b11a10.web.app/)
+
+🛠️ Tech Stack: React, MongoDB, Express.js, Node.js, Firebase Authentication, Tailwind CSS, DaisyUI, SweetAlert2
 
 ---
 
@@ -79,4 +79,4 @@ I'm enrolled in Programming Hero's Full Stack Web Development course and continu
 
 🚀 Live Demo: (https://jobtrack-hibiscus.netlify.app/)
 
-🛠️ Tech Stack: Python, Django, PostgreSQL
+🛠️ Tech Stack: React, Firebase Authentication, Tailwind CSS, DaisyUI, SweetAlert2
