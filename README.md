@@ -59,7 +59,7 @@ I'm enrolled in Programming Hero's Full Stack Web Development course and continu
 ### 1. [Task Hibe](https://github.com/jayedalnahian/b11-a9)
 📝 Brief description: TaskHive is a freelance task marketplace web application that connects individuals needing help with tasks and skilled freelancers looking for work. Users can post tasks, bid, and collaborate—all in one platform.
 
-🚀 Live Demo: [Demo Link](https://b11a10.web.app/)
+🚀 Live Demo: (https://b11a10.web.app/)
 
 🛠️ Tech Stack: React, MongoDB, Express.js, Node.js, Firebase Authentication, Tailwind CSS
 
