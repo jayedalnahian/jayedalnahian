@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co/rG6SsQRh/final.jpg)
+![Banner](https://i.ibb.co/277zdLjh/final-2.jpg)
 
 # 👋 Hi, I'm Jayed Al Nahian  
 ### 💻 MERN Stack Developer | Problem Solver | Lifelong Learner
