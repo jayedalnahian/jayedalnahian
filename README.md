@@ -20,14 +20,15 @@ I'm enrolled in Programming Hero's Full Stack Web Development course and continu
 
 ## 🛠️ Skills
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+</p>
 
 ---
 
@@ -49,3 +50,33 @@ I'm enrolled in Programming Hero's Full Stack Web Development course and continu
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jayedalnahian&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayedalnahian&layout=compact&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayedalnahian&show_icons=true&theme=radical)
+
+
+---
+
+## 📌 Pinned Repositories
+
+### 1. [Task Hibe](https://github.com/jayedalnahian/b11-a9)
+📝 Brief description: TaskHive is a freelance task marketplace web application that connects individuals needing help with tasks and skilled freelancers looking for work. Users can post tasks, bid, and collaborate—all in one platform.
+
+🚀 Live Demo: [Demo Link](https://b11a10.web.app/)
+
+🛠️ Tech Stack: React, MongoDB, Express.js, Node.js, Firebase Authentication, Tailwind CSS
+
+---
+
+### 2. [Marathon Management System](https://github.com/jayedalnahian/b11-a11)
+📝 Brief description: A full-stack web application for organizing and participating in marathon events. Built with React, Firebase Auth, MongoDB, and Express — fully secured with JWT (Firebase token) authentication and protected API routes.
+
+🚀 Live Demo: (https://b11a11-client-side.web.app/)
+
+🛠️ Tech Stack: React, MongoDB, Express.js, Node.js, Firebase Authentication, Tailwind CSS
+
+---
+
+### 3. [Job Track](https://github.com/jayedalnahian/b11-a10)
+📝 Brief description: JobTrack is an innovative and user-friendly website designed to help job seekers explore job opportunities across multiple companies. The platform serves as a centralized hub where users can find job listings, review qualifications, and apply for positions.
+
+🚀 Live Demo: (https://jobtrack-hibiscus.netlify.app/)
+
+🛠️ Tech Stack: Python, Django, PostgreSQL
