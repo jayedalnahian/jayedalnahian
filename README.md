@@ -37,6 +37,6 @@ I’m a passionate full-stack developer specialized in the MERN stack (MongoDB, 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=jayedalnahian&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?username=jayedalnahian&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayedalnahian&layout=compact&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayedalnahian&show_icons=true&theme=radical)
