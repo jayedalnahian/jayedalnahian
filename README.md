@@ -85,3 +85,8 @@ I'm enrolled in Programming Hero's Full Stack Web Development course and continu
 
 ### 🌱 My Contributions:
 ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=jayedalnahian&theme=github)
+
+---
+
+### Popular repositories
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayedalnahian&layout=compact&exclude_repo=repo1,repo2&hide=html,css)](https://github.com/jayedalnahian)
