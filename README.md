@@ -32,11 +32,10 @@ I'm enrolled in Programming Hero's Full Stack Web Development course and continu
 
 ---
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jayed-al-nahian-83b369317/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/jayedalnahian)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff6347?style=for-the-badge&logo=firefox-browser)](https://your-portfolio-link.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayed-al-nahian-83b369317/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jnahian752@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayedalnahian)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nahianlatsgo/)
 ---
 
 ## 📊 GitHub Stats
