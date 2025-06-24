@@ -30,13 +30,13 @@ I’m a passionate full-stack developer specialized in the MERN stack (MongoDB, 
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jayed-al-nahian-83b369317/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/jayedalnahian)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ff6347?style=for-the-badge&logo=firefox-browser)](https://your-portfolio-link.com)
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=jayedalnahian&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayedalnahian&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayedalnahian&show_icons=true&theme=radical)
