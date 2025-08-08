@@ -59,7 +59,7 @@ I'm enrolled in Programming Hero's Full Stack Web Development course and continu
 ### 1. [HavenSpace](https://github.com/jayedalnahian/HavenSpace)
 📝 Brief description: HavenSpace is a MERN Stack-based real estate platform where users can explore, wishlist, and purchase properties. Agents can add and manage property listings, and admins can oversee all activities across the platform. The system is built with security, role-based access, and a smooth user experience in mind.
 
-🚀 Live Demo: (https://explore-email-password-a-801d9.web.app/)
+🚀 Live Demo: [HavenSpace](https://explore-email-password-a-801d9.web.app/)
 
 🛠️ Tech Stack: React, Stripe, MongoDB, Tanstack Query, React Forms, Express.js, Node.js, Firebase Authentication, Tailwind CSS, DaisyUI, SweetAlert2
 
@@ -68,7 +68,7 @@ I'm enrolled in Programming Hero's Full Stack Web Development course and continu
 ### 2. [Marathon Management System](https://github.com/jayedalnahian/b11-a11)
 📝 Brief description: A full-stack web application for organizing and participating in marathon events. Built with React, Firebase Auth, MongoDB, and Express — fully secured with JWT (Firebase token) authentication and protected API routes.
 
-🚀 Live Demo: (https://b11a11-client-side.web.app/)
+🚀 Live Demo: [Marathon Management System](https://b11a11-client-side.web.app/)
 
 🛠️ Tech Stack: React, MongoDB, Express.js, Node.js, Firebase Authentication, Tailwind CSS, DaisyUI, SweetAlert2
 
@@ -77,7 +77,7 @@ I'm enrolled in Programming Hero's Full Stack Web Development course and continu
 ### 3. [Task Hibe](https://github.com/jayedalnahian/b11-a9)
 📝 Brief description: TaskHive is a freelance task marketplace web application that connects individuals needing help with tasks and skilled freelancers looking for work. Users can post tasks, bid, and collaborate—all in one platform.
 
-🚀 Live Demo: (https://b11a10.web.app/)
+🚀 Live Demo: [Task Hibe](https://b11a10.web.app/)
 
 🛠️ Tech Stack: React, MongoDB, Express.js, Node.js, Firebase Authentication, Tailwind CSS, DaisyUI, SweetAlert2
 
@@ -86,7 +86,7 @@ I'm enrolled in Programming Hero's Full Stack Web Development course and continu
 ### 4. [Job Track](https://github.com/jayedalnahian/b11-a10)
 📝 Brief description: JobTrack is an innovative and user-friendly website designed to help job seekers explore job opportunities across multiple companies. The platform serves as a centralized hub where users can find job listings, review qualifications, and apply for positions.
 
-🚀 Live Demo: (https://jobtrack-hibiscus.netlify.app/)
+🚀 Live Demo: [Job Track](https://jobtrack-hibiscus.netlify.app/)
 
 🛠️ Tech Stack: React, Firebase Authentication, Tailwind CSS, DaisyUI, SweetAlert2
 
