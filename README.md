@@ -9,12 +9,12 @@
 
 Hi! I'm Jayed Al Nahian, a passionate web developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js). I enjoy solving real-world problems through clean, scalable code.
 
-I'm enrolled in Programming Hero's Full Stack Web Development course and continuously improving my front- and back-end technologies skills.
+I'm enrolled in Programming Hero's Full Stack Web Development course, where I am continuously improving my front-end and back-end technologies skills.
 
 ### 🌱 Currently:
-- 🚀 Exploring **Next.js** and **React Query**
-- 🌍 Building a **Tourism Website**
-- 📊 Learning how to integrate **JWT** securely in web applications
+- 🚀 Exploring **Next.js** and **TypeScript**
+- 🌍 Building a **School Management System**
+- 📊 Learning how to make code **efficient** and **maintainable**.
 
 ---
 
