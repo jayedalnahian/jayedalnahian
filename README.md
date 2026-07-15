@@ -55,7 +55,7 @@ I'm enrolled in Programming Hero's Full Stack Web Development course, where I am
 
 ## 📌 Pinned Repositories
 
-### 2. [SkillBridge](https://github.com/jayedalnahian/skillbridge-c)
+### 1. [SkillBridge](https://github.com/jayedalnahian/skillbridge-c)
 📝 Brief description: SkillBridge was founded with a simple mission: make quality education accessible to everyone. We believe that learning should be personalized, flexible, and guided by experts who genuinely care about your success.
 
 🚀 Live Demo: [SkillBridge](https://skill-bridge-c.vercel.app/)
