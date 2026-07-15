@@ -1,7 +1,7 @@
 ![Banner](https://i.ibb.co/277zdLjh/final-2.jpg)
 
 # 👋 Hi, I'm Jayed Al Nahian  
-### 💻 MERN Stack Developer | Problem Solver | Lifelong Learner
+### 💻 Full Stack Developer | Problem Solver | Lifelong Learner
 
 ---
 
@@ -55,16 +55,25 @@ I'm enrolled in Programming Hero's Full Stack Web Development course, where I am
 
 ## 📌 Pinned Repositories
 
-### 1. [HavenSpace](https://github.com/jayedalnahian/HavenSpace)
+### 2. [SkillBridge](https://github.com/jayedalnahian/skillbridge-c)
+📝 Brief description: SkillBridge was founded with a simple mission: make quality education accessible to everyone. We believe that learning should be personalized, flexible, and guided by experts who genuinely care about your success.
+
+🚀 Live Demo: [SkillBridge](https://skill-bridge-c.vercel.app/)
+
+🛠️ Tech Stack: Next.js, Stripe, MongoDB, TanStack Query, React Forms, Express.js, Node.js, Firebase Authentication, Tailwind CSS, DaisyUI, SweetAlert2
+
+---
+
+### 2. [HavenSpace](https://github.com/jayedalnahian/HavenSpace)
 📝 Brief description: HavenSpace is a MERN Stack-based real estate platform where users can explore, wishlist, and purchase properties. Agents can add and manage property listings, and admins can oversee all activities across the platform. The system is built with security, role-based access, and a smooth user experience in mind.
 
 🚀 Live Demo: [HavenSpace](https://explore-email-password-a-801d9.web.app/)
 
-🛠️ Tech Stack: React, Stripe, MongoDB, Tanstack Query, React Forms, Express.js, Node.js, Firebase Authentication, Tailwind CSS, DaisyUI, SweetAlert2
+🛠️ Tech Stack: React, Stripe, MongoDB, TanStack Query, React Forms, Express.js, Node.js, Firebase Authentication, Tailwind CSS, DaisyUI, SweetAlert2
 
 ---
 
-### 2. [Marathon Management System](https://github.com/jayedalnahian/b11-a11)
+### 3. [Marathon Management System](https://github.com/jayedalnahian/b11-a11)
 📝 Brief description: A full-stack web application for organizing and participating in marathon events. Built with React, Firebase Auth, MongoDB, and Express — fully secured with JWT (Firebase token) authentication and protected API routes.
 
 🚀 Live Demo: [Marathon Management System](https://b11a11-client-side.web.app/)
@@ -73,7 +82,7 @@ I'm enrolled in Programming Hero's Full Stack Web Development course, where I am
 
 ---
 
-### 3. [Task Hibe](https://github.com/jayedalnahian/b11-a9)
+### 4. [Task Hibe](https://github.com/jayedalnahian/b11-a9)
 📝 Brief description: TaskHive is a freelance task marketplace web application that connects individuals needing help with tasks and skilled freelancers looking for work. Users can post tasks, bid, and collaborate—all in one platform.
 
 🚀 Live Demo: [Task Hibe](https://b11a10.web.app/)
@@ -82,7 +91,7 @@ I'm enrolled in Programming Hero's Full Stack Web Development course, where I am
 
 ---
 
-### 4. [Job Track](https://github.com/jayedalnahian/b11-a10)
+### 5. [Job Track](https://github.com/jayedalnahian/b11-a10)
 📝 Brief description: JobTrack is an innovative and user-friendly website designed to help job seekers explore job opportunities across multiple companies. The platform serves as a centralized hub where users can find job listings, review qualifications, and apply for positions.
 
 🚀 Live Demo: [Job Track](https://jobtrack-hibiscus.netlify.app/)
