@@ -1,32 +1,36 @@
 ![Banner](https://i.ibb.co/277zdLjh/final-2.jpg)
 
-# 👋 Hi, I'm Jayed Al Nahian  
-### 💻 Full Stack Developer | Problem Solver | Lifelong Learner
+# 👋 Hi, I'm Jayed Al Nahian
+### 💻 Full Stack Developer | Systems Thinker | Lifelong Learner
 
 ---
 
 ## 👨‍💻 About Me
 
-Hi! I'm Jayed Al Nahian, a passionate web developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js). I enjoy solving real-world problems through clean, scalable code.
+Hi! I'm Jayed Al Nahian, a full-stack developer who enjoys solving real-world problems through well-designed systems. I'd rather understand how something works internally than just make it work — so I always try to think about architecture before implementation.
 
-I'm enrolled in Programming Hero's Full Stack Web Development course, where I am continuously improving my front-end and back-end technologies skills.
+I'm currently pursuing a Diploma in Computer Science at Global Institute of Science and Technology (2023–2027), and I've completed Programming Hero's Next Level Full Stack Web Engineering (Industry Grade Development) program.
 
 ### 🌱 Currently:
-- 🚀 Exploring **Next.js** and **TypeScript**
-- 🌍 Building a **School Management System**
-- 📊 Learning how to make code **efficient** and **maintainable**.
+- 🚀 Building **SkillBridge**'s frontend — a multi-role tutoring platform
+- 🧭 Exploring **Go, Docker, and RAG-based AI workflows**
+- 🤖 Integrating AI-assisted development into my workflow with Claude Code and MCP tooling
 
 ---
 
 ## 🛠️ Skills
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
 </p>
 
@@ -40,63 +44,44 @@ I'm enrolled in Programming Hero's Full Stack Web Development course, where I am
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayed-al-nahian-83b369317/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1B4EF5?style=for-the-badge&logo=vercel&logoColor=white)](https://jayedalnahian.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayed-al-nahian/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jnahian752@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayedalnahian)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nahianlatsgo/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801973269940)
+
 ---
 
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayedalnahian&layout=compact&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayedalnahian&show_icons=true&theme=radical)
 
-
 ---
 
 ## 📌 Pinned Repositories
 
-### 1. [SkillBridge](https://github.com/jayedalnahian/skillbridge-c)
-📝 Brief description: SkillBridge was founded with a simple mission: make quality education accessible to everyone. We believe that learning should be personalized, flexible, and guided by experts who genuinely care about your success.
+### 1. [SkillBridge](https://github.com/jayedalnahian)
+📝 A production-style multi-role tutoring platform connecting students with tutors, with dedicated dashboards for students, tutors, and administrators.
 
-🚀 Live Demo: [SkillBridge](https://skill-bridge-c.vercel.app/)
-
-🛠️ Tech Stack: Next.js, Stripe, MongoDB, TanStack Query, React Forms, Express.js, Node.js, Firebase Authentication, Tailwind CSS, DaisyUI, SweetAlert2
+🛠️ Tech Stack: Next.js 16, React 19, TypeScript, Tailwind CSS, Node.js, Express.js, PostgreSQL, Prisma, Better Auth, Zod, TanStack Query
 
 ---
 
-### 2. [HavenSpace](https://github.com/jayedalnahian/HavenSpace)
-📝 Brief description: HavenSpace is a MERN Stack-based real estate platform where users can explore, wishlist, and purchase properties. Agents can add and manage property listings, and admins can oversee all activities across the platform. The system is built with security, role-based access, and a smooth user experience in mind.
+### 2. [SpotSync](https://github.com/jayedalnahian)
+📝 A backend API built with Go for smart parking and EV charging reservations, designed around clean architecture and concurrency-safe booking.
 
-🚀 Live Demo: [HavenSpace](https://explore-email-password-a-801d9.web.app/)
+🚀 [View Details](https://jayedalnahian.vercel.app/projects/spotsync)
 
-🛠️ Tech Stack: React, Stripe, MongoDB, TanStack Query, React Forms, Express.js, Node.js, Firebase Authentication, Tailwind CSS, DaisyUI, SweetAlert2
-
----
-
-### 3. [Marathon Management System](https://github.com/jayedalnahian/b11-a11)
-📝 Brief description: A full-stack web application for organizing and participating in marathon events. Built with React, Firebase Auth, MongoDB, and Express — fully secured with JWT (Firebase token) authentication and protected API routes.
-
-🚀 Live Demo: [Marathon Management System](https://b11a11-client-side.web.app/)
-
-🛠️ Tech Stack: React, MongoDB, Express.js, Node.js, Firebase Authentication, Tailwind CSS, DaisyUI, SweetAlert2
+🛠️ Tech Stack: Go, Echo, PostgreSQL, GORM
 
 ---
 
-### 4. [Task Hibe](https://github.com/jayedalnahian/b11-a9)
-📝 Brief description: TaskHive is a freelance task marketplace web application that connects individuals needing help with tasks and skilled freelancers looking for work. Users can post tasks, bid, and collaborate—all in one platform.
+### 3. [Run](https://github.com/jayedalnahian)
+📝 A full-stack marathon management platform supporting event creation, registration, cancellation, and participant management.
 
-🚀 Live Demo: [Task Hibe](https://b11a10.web.app/)
+🚀 [View Details](https://jayedalnahian.vercel.app/projects/run)
 
-🛠️ Tech Stack: React, MongoDB, Express.js, Node.js, Firebase Authentication, Tailwind CSS, DaisyUI, SweetAlert2
-
----
-
-### 5. [Job Track](https://github.com/jayedalnahian/b11-a10)
-📝 Brief description: JobTrack is an innovative and user-friendly website designed to help job seekers explore job opportunities across multiple companies. The platform serves as a centralized hub where users can find job listings, review qualifications, and apply for positions.
-
-🚀 Live Demo: [Job Track](https://jobtrack-hibiscus.netlify.app/)
-
-🛠️ Tech Stack: React, Firebase Authentication, Tailwind CSS, DaisyUI, SweetAlert2
+🛠️ Tech Stack: React.js, Tailwind CSS, Node.js, Express.js
 
 ---
 
