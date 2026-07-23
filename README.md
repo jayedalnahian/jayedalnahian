@@ -53,8 +53,8 @@ I'm currently pursuing a Diploma in Computer Science at Global Institute of Scie
 ---
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayedalnahian&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayedalnahian&show_icons=true&theme=radical)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=jayedalnahian&layout=compact&theme=radical)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jayedalnahian&show_icons=true&theme=radical)
 
 ---
 
@@ -91,4 +91,4 @@ I'm currently pursuing a Diploma in Computer Science at Global Institute of Scie
 ---
 
 ### Popular repositories
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayedalnahian&layout=compact&exclude_repo=repo1,repo2&hide=html,css)](https://github.com/jayedalnahian)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=jayedalnahian&layout=compact&exclude_repo=repo1,repo2&hide=html,css)](https://github.com/jayedalnahian)
